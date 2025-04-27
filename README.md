@@ -3,12 +3,17 @@
 ![Sales Rep Workload Dashboard](./Sales%20Rep%20Workload%20Dashboard.jpeg)
 
 ## Overview
-This project analyzes sales rep workload and its relationship to employee retention and client satisfaction in a fintech sales context. Using simulated data, I built an interactive dashboard in Power BI to visualize the connections between rep status, workload, and client outcomes.
+This project explores the connection between sales rep workload, employee retention, and client satisfaction in a fintech sales environment. Using simulated data, I created an interactive dashboard in Power BI to visualize the impact of workload on rep status and client experience.
 
 ## Key Insights
-- High lead volume does not always result in lower client satisfaction. Some reps thrive under pressure while others need additional support.
-- Outliers in the data show that even with the lowest workload, some reps may struggle with client satisfaction—suggesting the need for personalized coaching.
-- The relationship between lead volume and satisfaction is not linear; sharing best practices from top performers can improve team results.
+- High lead volume does not always result in lower client satisfaction. In this sample, Sales Rep #1 and #3 handle the heaviest workloads yet maintain the highest satisfaction scores.
+- Rep #2 is an outlier, showing that even with the lowest workload, client satisfaction can lag behind—highlighting the need for targeted coaching or support.
+- Individual skill, experience, and strategies appear to play a significant role in both workload management and client experience.
+- Understanding and replicating the best practices of top performers could benefit the whole team.
+
+## Additional Insights
+- The relationship between lead volume and client satisfaction is not linear. Some reps (like those on the right of the plot) maintain high satisfaction despite heavy workloads, while others with lighter loads report lower satisfaction.
+- Top performers can excel under pressure. Reps with both high lead averages and high client satisfaction show that individual skill, support, or strategy makes a major difference.
 
 ## Recommendations
 - Regularly analyze and balance rep workloads to prevent burnout.
@@ -26,4 +31,4 @@ A nuanced, data-driven approach to workload and team management can lead to stro
 
 ---
 
-**If you have questions or feedback, feel free to connect!**
+**Questions or feedback? Feel free to connect!**
