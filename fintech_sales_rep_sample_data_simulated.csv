@@ -1,0 +1,19 @@
+Sales Rep. #,Week,Leads Assigned,Calls Made,Pipeline Size,% Leads Contacted,Rep Status,Reason for Leaving,Client Sat. Score,Upsell Count
+1,1,35,32,12,91.00%,Active,,8.2,2
+2,1,40,28,18,70.00%,Exited,Overload/Burnout,6.5,0
+3,1,28,27,10,96.00%,Active,,8.8,3
+4,1,25,20,7,80.00%,At Risk,,7.1,1
+5,1,30,24,13,80.00%,Active,,8,2
+1,2,38,34,14,89.00%,Active,,8.3,3
+2,2,42,25,22,60.00%,Exited,Overload/Burnout,6.2,0
+3,2,29,29,11,100.00%,Active,,9,4
+4,2,27,18,9,67.00%,At Risk,,6.9,1
+5,2,33,28,15,85.00%,Active,,8.2,2
+1,3,36,35,13,97.00%,Active,,8.5,2
+3,3,31,30,10,97.00%,Active,,9.2,3
+4,3,28,17,8,61.00%,At Risk,,6.7,1
+5,3,34,30,14,88.00%,Active,,8.1,2
+1,4,39,36,12,92.00%,Active,,8.4,2
+3,4,30,29,11,97.00%,Active,,9.1,4
+4,4,29,15,6,52.00%,Exited,Personal/Low Support,6.1,0
+5,4,32,29,13,91.00%,Active,,8.3,2
